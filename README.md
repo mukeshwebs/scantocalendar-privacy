@@ -2,7 +2,7 @@
 
   This repository hosts the privacy policy for ScanToCalendar AI iOS app.
 
-  View the privacy policy: [Privacy Policy](https://[yourusername].github.io/scantocalendar-privacy)
+  View the privacy policy: https://mukeshwebs.github.io/scantocalendar-privacy/
 
   ## App Information
   - App Name: ScanToCalendar AI
@@ -10,6 +10,5 @@
   - Category: Productivity
 
   ## Contact
-  For questions about this privacy policy, contact: [your-email@domain.com]
+  For questions about this privacy policy, contact: mukeshyadavparty55@gmail.com
 
-  Replace [yourusername] and [your-email@domain.com] with your actual details.
